@@ -1,0 +1,8 @@
+2:I["8c0f216c4604",[],"Children",1]
+3:I["15c18cfaeeff",[],"LayoutSegmentProvider",1]
+4:I["8c0f216c4604",[],"Slot",1]
+5:I["593f344dc510",[],"RedirectBoundary",1]
+:HL["/princess-coronation-battle/assets/index-BK8mT3Jh.css","style"]
+0:{"__route":"route:/","__interceptionContext":null,"__layoutIds":["layout:/"],"__rootLayout":"/","page:/":"$L1","layout:/":[[[["$","link","css:/princess-coronation-battle/assets/index-BK8mT3Jh.css",{"rel":"stylesheet","precedence":"vite-rsc/importer-resources","href":"/princess-coronation-battle/assets/index-BK8mT3Jh.css","data-rsc-css-href":"/princess-coronation-battle/assets/index-BK8mT3Jh.css"}],"$undefined"],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":["$","$L2",null,{}]}]}]],null],"route:/":[[["$","meta",null,{"charSet":"utf-8"}],[["$","title","0",{"children":"王女加冕礼战斗测试v1"}],["$","meta","1",{"name":"description","content":"王女加冕礼单机卡牌战斗测试版本，包含固定回合判定、双出牌操作、敌方 AI 与成长循环。"}]],[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]],["$","$L3",null,{"segmentMap":{"children":[]},"children":["$","$L4",null,{"id":"layout:/","parallelSlots":"$undefined","children":["$","$L5",null,{"children":["$","$L3",null,{"segmentMap":{"children":[]},"children":["$","$L4",null,{"id":"page:/"}]}]}]}]}]],"__layoutFlags":{"layout:/":"s"},"__artifactCompatibility":{"schemaVersion":1,"graphVersion":"app-route-graph:4uhn5s1wvoptc","deploymentVersion":"e8085620-906a-4bd3-a186-4e655be5e7a7","appElementsSchemaVersion":1,"rscPayloadSchemaVersion":1,"rootBoundaryId":"/","renderEpoch":null}}
+6:I["8ebabb24a44a",[],"default",1]
+1:["$","$L6",null,{}]
