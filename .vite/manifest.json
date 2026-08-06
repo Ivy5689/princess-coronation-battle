@@ -11,7 +11,7 @@
     "name": "rolldown-runtime"
   },
   "app/PrototypeLauncher.tsx": {
-    "file": "assets/PrototypeLauncher-BAnl1Vqj.js",
+    "file": "assets/PrototypeLauncher-CBR4im8B.js",
     "name": "PrototypeLauncher",
     "src": "app/PrototypeLauncher.tsx",
     "isDynamicEntry": true,
@@ -21,7 +21,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "assets/layout-segment-context-DZlVPtvI.js",
+    "file": "assets/layout-segment-context-CxWzDq8J.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -32,7 +32,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "assets/index-nnJ6MXMl.js",
+    "file": "assets/index-W0CIp898.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
